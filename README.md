@@ -9,7 +9,7 @@
 * 学习在项目中接入Bmob后端云，并对Bmob提供的API学习和摸索  
 * 通过这个项目来结交一些志同道合的朋友
 ##### 项目截图
-![首页](https://github.com/sunshey/order-wx/blob/master/QQ%E5%9B%BE%E7%89%8720180603115101.jpg)![](https://github.com/sunshey/order-wx/blob/master/)
+![首页](https://github.com/sunshey/order-wx/blob/master/QQ%E5%9B%BE%E7%89%8720180603115101.jpg)![](https://github.com/sunshey/order-wx/blob/master/QQ%E5%9B%BE%E7%89%8720180603115107.jpg)
 
 
 源码说明
